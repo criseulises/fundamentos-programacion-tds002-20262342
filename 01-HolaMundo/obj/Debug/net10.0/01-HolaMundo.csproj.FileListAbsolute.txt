@@ -12,3 +12,4 @@
 /Users/criseulises/Documents/Main Docs/ITLA/2026-3/Fundamentos de Programación/fundamentos-programacion-tds002-20262342/01-HolaMundo/obj/Debug/net10.0/01-HolaMundo.pdb
 /Users/criseulises/Documents/Main Docs/ITLA/2026-3/Fundamentos de Programación/fundamentos-programacion-tds002-20262342/01-HolaMundo/obj/Debug/net10.0/01-HolaMundo.genruntimeconfig.cache
 /Users/criseulises/Documents/Main Docs/ITLA/2026-3/Fundamentos de Programación/fundamentos-programacion-tds002-20262342/01-HolaMundo/obj/Debug/net10.0/ref/01-HolaMundo.dll
+/Users/criseulises/Documents/Main Docs/ITLA/2026-3/Fundamentos de Programación/fundamentos-programacion-tds002-20262342/01-HolaMundo/obj/Debug/net10.0/01-HolaMundo.sourcelink.json
